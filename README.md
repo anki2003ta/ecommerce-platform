@@ -87,7 +87,7 @@ A feature-rich E-Commerce Website designed to deliver a seamless shopping experi
 ---
 
 ## Project Links
-- [Project Repository](https://github.com/arpi2003ta/Commerce)
+- [Project Repository](https://github.com/anki2003ta/ecommerce-platform)
 - [Live Demo](https://youtu.be/TaA0Jzx1nKQ?si=McaHjNNceYRuW5Eg)
 
 ---
@@ -97,8 +97,8 @@ A feature-rich E-Commerce Website designed to deliver a seamless shopping experi
 ### 1. 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/arpi2003ta/Commerce.git
-cd Commerce
+git clone https://github.com/anki2003ta/ecommerce-platform.git
+cd ecommerce-platform
 ```
 
 ### 2. ⚙️ Create .env Files
