@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Website
 
-A feature-rich E-Commerce Website designed to deliver a seamless shopping experience for users while providing robust backend operations for administrators. This project integrates modern technologies to ensure scalability, performance, and security.
+A feature-rich E-Commerce Website designed to deliver a seamless shopping experience for users while providing robust backend operations for  administrators. This project integrates modern technologies to ensure scalability, performance, and security.
 
 ---
 
